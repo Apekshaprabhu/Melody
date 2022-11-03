@@ -2,6 +2,9 @@
 Prototype link:https://www.figma.com/file/FsOP7N8u1eprvLOlNRdw2o/Symphony---Mobile?node-id=0%3A1
 
 **Face recognition code can be executed directly by **
+
+
+
 **Step1.Dowload the Zip Files**
 **Step2.Extract The files**
 **Step3.Open Command Prompt and check the path of the file where it has been downloaded**
