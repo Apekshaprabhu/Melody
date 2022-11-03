@@ -6,8 +6,11 @@ Prototype link:https://www.figma.com/file/FsOP7N8u1eprvLOlNRdw2o/Symphony---Mobi
 
 
 **Step1.Dowload the Zip Files**
+
 **Step2.Extract The files**
+
 **Step3.Open Command Prompt and check the path of the file where it has been downloaded**
+
 **Step4.Type the command python main.py and you are good to go!!**
 
 
