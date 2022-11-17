@@ -1,0 +1,9 @@
+# Basic dependabot.yml file for JavaScript application 
+# check docs for other dependencies
+version: 2
+
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
